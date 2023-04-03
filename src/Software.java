@@ -1,0 +1,6 @@
+
+interface Software {
+    
+    String muestraLenguaje();
+    
+}

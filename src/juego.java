@@ -1,0 +1,6 @@
+
+interface juego {
+    
+    int calculaPuntos();
+    
+ }
